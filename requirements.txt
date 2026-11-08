@@ -1,0 +1,26 @@
+# Real-time Personal Protective Equipment (PPE) Detection Requirements
+# Core framework
+ultralytics>=8.0.200
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer Vision & Image Processing
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data & Metrics Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandas>=2.0.0
+pyyaml>=6.0
+
+# Model Export & Edge Deployment
+onnx>=1.14.0
+onnxruntime>=1.15.0
+
+# Video Streaming & Performance Monitoring
+tqdm>=4.65.0
+psutil>=5.9.0
+
